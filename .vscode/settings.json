@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Classic Terminal Revisited",
+    "workbench.preferredDarkColorTheme": "Default High Contrast",
+    "workbench.preferredHighContrastLightColorTheme": "Default High Contrast",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.smoothScrolling": true
+}

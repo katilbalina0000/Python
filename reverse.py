@@ -1,0 +1,1 @@
+print(("".join (reversed("öğretmen tahtaya bir sayı yazdı bu sayının ne olduğu bilinmiyordu herkes çok merakediyordu tahtadaki sayıyı. ve tam öğretmen sayıyı açıklıycaktıki tennefüs zili çaldı "))))
